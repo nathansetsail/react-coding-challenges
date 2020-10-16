@@ -7,7 +7,7 @@
 - Loading state and knowing where and how to make multiple API calls efficiently
 
 # Pre-requisites ✅
-- Add your Spotify client ID & secret to `config.js`
+- Add your Spotify client ID & secret to `config.js`. You can find how to set this up [here](https://developer.spotify.com/documentation/web-api/quick-start/)
 
 # Requirements 📖
 - Fetch and display *Released This Week* songs
